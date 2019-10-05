@@ -7,7 +7,7 @@ public class Square extends Rectange{
     /**
      *
      * @param name
-     * @param side
+     * @param side of the shape Square
      */
     public Square(String name, double side) {
         super(name, side, side);
